@@ -34,7 +34,7 @@ var App = React.createClass({
                                 </a>
                             </div>
                             <div className="column">
-                                <a className="social-button" href="mailto:eugene.dubovoy@gmail.com" target="_blank">
+                                <a className="social-button" href="mailto:hi@cooky.cat" target="_blank">
                                     <i className="big mail grey icon link icon"/>
                                 </a>
                             </div>
