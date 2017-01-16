@@ -10,7 +10,7 @@ var App = React.createClass({
                             <img className="ui medium circular image" src="/images/the-sea.jpg"/>
                         </div>
                         <div className="row name-panel">
-                            <h1>Eugene Duboviy</h1>
+                            <h1>Cooky</h1>
                         </div>
                         <div className="row social-panel">
                             <div className="column">
