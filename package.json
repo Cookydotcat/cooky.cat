@@ -9,8 +9,7 @@
   },
   "author": "Eugene Duboviy",
   "dependencies": {
-    "react": "~0.13.3",
-    "react-router": "^1.0.0-rc1"
+    "react": "~0.13.3"
   },
   "devDependencies": {
     "babelify": "^6.3.0",
