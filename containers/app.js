@@ -7,7 +7,7 @@ var App = React.createClass({
                 <div className="page-content">
                     <div className="ui centered five column grid">
                         <div className="centered column main-img">
-                            <img className="ui medium circular image" src="/images/the-sea.jpg"/>
+                            <img className="ui medium circular image" src="images/the-cat.jpg"/>
                         </div>
                         <div className="row name-panel">
                             <h1>Cooky</h1>
