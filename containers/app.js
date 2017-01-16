@@ -14,23 +14,8 @@ var App = React.createClass({
                         </div>
                         <div className="row social-panel">
                             <div className="column">
-                                <a className="social-button" href="http://github.com/duboviy" target="_blank">
-                                    <i className="big github square grey icon link icon"/>
-                                </a>
-                            </div>
-                            <div className="column">
-                                <a className="social-button" href="http://www.facebook.com/eduboviy" target="_blank">
-                                    <i className="big facebook square grey icon link icon"/>
-                                </a>
-                            </div>
-                            <div className="column">
                                 <a className="social-button" href="http://instagram.com/cookydotcat/" target="_blank">
                                     <i className="big instagram square grey icon link icon"/>
-                                </a>
-                            </div>
-                            <div className="column">
-                                <a className="social-button" href="https://telegram.me/duboviy" target="_blank">
-                                    <i className="big send grey icon link icon"/>
                                 </a>
                             </div>
                             <div className="column">
