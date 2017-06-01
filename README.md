@@ -14,4 +14,4 @@ bundle exec jekyll s
 [license-img]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: /LICENSE.md
 [build-status-img]: https://api.travis-ci.org/Cookydotcat/cooky.cat.svg?branch=master
-[build-status-url]: https://travis-ci.org/cookydotcat/cooky.cat
+[build-status-url]: https://travis-ci.org/Cookydotcat/cooky.cat
